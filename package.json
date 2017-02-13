@@ -1,0 +1,12 @@
+{
+  "name": "Uddish",
+  "version": "1.0.0",
+  "description": "Sample api",
+  "author": "Uddish Verma",
+  "license": "MAIT",
+  "dependencies": {                   //*****Read about devdependencies******
+    "body-parser": "^1.16.0",
+    "express": "^4.14.1",
+    "mysql": "^2.13.0"
+  }
+}
